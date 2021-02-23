@@ -5,17 +5,23 @@ const About = () => {
     <section className="section about-section">
       <h1 className="section-title">About Us</h1>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro
-        doloribus aut, accusamus quod ut obcaecati dignissimos sunt possimus
-        temporibus quis recusandae, architecto repellendus aspernatur blanditiis
-        sit sequi id. Nobis nam pariatur nostrum ad laborum distinctio ducimus
-        commodi iste eaque, officia totam, unde eveniet sint quo mollitia.
-        Tempore impedit eaque illum neque deserunt totam in provident? Expedita
-        maiores corporis provident facere deleniti esse veritatis amet
-        asperiores porro voluptatibus eum, dolore necessitatibus deserunt
-        pariatur aut voluptatem ad dolores incidunt cupiditate? Aliquid quae
-        nobis alias veritatis, sapiente quia qui, explicabo tenetur magnam,
-        velit neque expedita rem quod pariatur mollitia voluptas ex quo sequi.
+        Cocktails are a form of art, one of the greatest expressions of human
+        creativity applied to the world of spirits, liquors and juices.
+      </p>
+      <p>
+        The first known guide to cocktail making was published in 1862 by well
+        known American bartender Jerry Thomas. Thomas owned and operated saloons
+        across New York city in the 1800's and is often considered the father of
+        American mixology.
+      </p>
+      <p>
+        People have been mixing drinks for centuries, often to make an
+        ingredient more palatable or to create medicinal elixirs. It wasn't
+        until the 17th and 18th centuries that the precursors of the cocktail
+        (e.g., slings, fizzes, toddies, and juleps) became popular enough to be
+        recorded in the history books. Though it's unclear where, who, and what
+        went into the creation of the original cocktail, it started out as a
+        specific drink formula rather than a category of mixed drinks.
       </p>
     </section>
   );

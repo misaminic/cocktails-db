@@ -185,6 +185,7 @@ About
   margin: 0 auto;
 }
 .about-section p {
+  text-align: justify;
   line-height: 2rem;
   font-weight: 400;
   letter-spacing: 2px;
